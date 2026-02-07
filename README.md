@@ -21,4 +21,4 @@ Aspirante a analista de ciberseguridad | Aprendiendo pentesting y análisis de v
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/javier-garcía-santiago-0a348a158)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-black?logo=tryhackme)](https://tryhackme.com/p/coursera.pelican)
 
-> "La ciberseguridad no es un producto, es un proceso continuo de aprendizaje" — Bruce Schneier
+> "El precio de la libertad es la eterna vigilancia." — Thomas Jefferson
