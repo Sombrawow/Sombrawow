@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Javier
 
-<!--
-**Sombrawow/Sombrawow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspirante a analista de ciberseguridad | Aprendiendo pentesting y análisis de vulnerabilidades
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades en Desarrollo
+- [x] Fundamentos de redes (TCP/IP, DNS, HTTP/S)
+- [x] Linux básico (comandos, permisos, scripting)
+- [ ] Análisis de vulnerabilidades
+- [ ] Python para automatización de tareas de seguridad
+      
+## 📚 Aprendiendo Actualmente
+- CCST Cybersecurity (Cisco)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Proyectos Destacados
+| Proyecto | Descripción | Enlace |
+|----------|-------------|--------|
+
+
+
+## 📬 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/javier-garcía-santiago-0a348a158)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-black?logo=tryhackme)](https://tryhackme.com/p/coursera.pelican)
+
+> "La ciberseguridad no es un producto, es un proceso continuo de aprendizaje" — Bruce Schneier
