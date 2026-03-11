@@ -22,6 +22,6 @@ Aspirante a analista de ciberseguridad | Aprendiendo pentesting y análisis de v
 ## 📬 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/javier-garcía-santiago-0a348a158)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-black?logo=tryhackme)](https://tryhackme.com/p/coursera.pelican)
-📩 [![jvrgs98@protonmail.com](https://img.shields.io/badge/jvrgs98%40protonmail.com-6D4AFF?logo=protonmail)](mailto:jvrgs98@protonmail.com)
+[![📩 jvrgs98@protonmail.com](https://img.shields.io/badge/jvrgs98%40protonmail.com-6D4AFF?logo=protonmail)](mailto:jvrgs98@protonmail.com)
 
 > "El precio de la libertad es la eterna vigilancia." — Thomas Jefferson
