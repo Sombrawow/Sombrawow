@@ -1,17 +1,18 @@
 # 👋 ¡Hola! Soy Sombra
 
-Aspirante a analista de ciberseguridad | Aprendiendo pentesting y análisis de vulnerabilidades
+Técnico de Telecomunicaciones en transición a ciberseguridad | SOC/Blue Team | CCST Cybersecurity ✅ | Security+ en curso
 
 ## 🛠️ Habilidades en Desarrollo
 - [x] Networking (Wireshark, Nmap, Modelo OSI, Subnetting, TCP/IP)
 - [x] Linux (Bash, Gestión de usuarios, Permisos chmod/chown, Systemd)
-- [x] SIEM (Splunk)
+- [x] CCST Cybersecurity (Cisco)
+- [ ] SIEM (Splunk)
 - [ ] Metasploit
 - [ ] Análisis de vulnerabilidades
 - [ ] Python para automatización de tareas de seguridad
       
 ## 📚 Aprendiendo Actualmente
-- CCST Cybersecurity (Cisco) En Proceso
+- CompTIA Security+
 
 ## 💻 Proyectos Destacados
 | Proyecto | Descripción | Enlace |
