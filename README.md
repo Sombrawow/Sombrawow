@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Javier
 
 **Telecommunications & IT Technician transitioning into Cybersecurity**
-**Aspiring SOC Analyst | Cisco Junior Cybersecurity Analyst Career Path ✅ | CCST Cybersecurity ✅ | CompTIA Security+ (In Progress)**
+**Aspiring SOC Analyst | Cisco Junior Cybersecurity Analyst Career Path ✅ | CompTIA Security+ (In Progress)**
 
 ## 🛠️ Skills & Knowledge
 
