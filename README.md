@@ -1,30 +1,69 @@
-# 👋 ¡Hola! Soy Sombra
+# 👋 Hi, I'm Javier
 
-Técnico de Telecomunicaciones en transición a ciberseguridad | SOC/Blue Team | CCST Cybersecurity ✅ | Security+ en curso
+**Telecommunications & IT Technician transitioning into Cybersecurity**
+**Aspiring SOC Analyst | Cisco Junior Cybersecurity Analyst Career Path ✅ | CCST Cybersecurity ✅ | CompTIA Security+ (In Progress)**
 
-## 🛠️ Habilidades en Desarrollo
-- [x] Networking (Wireshark, Nmap, Modelo OSI, Subnetting, TCP/IP)
-- [x] Linux (Bash, Gestión de usuarios, Permisos chmod/chown, Systemd)
-- [x] CCST Cybersecurity (Cisco)
-- [ ] SIEM (Splunk)
-- [ ] Metasploit
-- [ ] Análisis de vulnerabilidades
-- [ ] Python para automatización de tareas de seguridad
-      
-## 📚 Aprendiendo Actualmente
-- CompTIA Security+
+## 🛠️ Skills & Knowledge
 
-## 💻 Proyectos Destacados
-| Proyecto | Descripción | Enlace |
-|----------|-------------|--------|
-|Bricks Heist|Attacker exploited CVE-2024-25600 in Bricks Builder|[Ver Repo](https://github.com/Sombrawow/tryhackme-bricks-heist?tab=readme-ov-file)|
-|Volt Typhoon APT Investigation|Investigation of a simulated APT campaign by the Volt Typhoon group|[Ver Repo](https://github.com/Sombrawow/volt-typhoon-investigation)|
-|----------|-------------|--------|
+### Networking
 
+* Wireshark
+* Nmap
+* OSI Model
+* TCP/IP
+* Subnetting
+* Network Troubleshooting
 
-## 📬 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/javier-garcía-santiago-0a348a158)
+### Linux
+
+* Bash
+* User & Group Management
+* File Permissions (chmod/chown)
+* Systemd
+* Basic System Administration
+
+### Cybersecurity
+
+* CCST Cybersecurity (Cisco)
+* Security Monitoring
+* Log Analysis
+* Threat Detection Fundamentals
+* Incident Response Fundamentals
+* Network Security Fundamentals
+
+### Currently Developing
+
+* SIEM (Splunk)
+* Vulnerability Assessment
+* Python for Security Automation
+* Threat Hunting
+* SOC Operations
+
+## 📚 Current Focus
+
+* CompTIA Security+ (SY0-701)
+* Blue Team Labs & SOC Investigations
+* Security Monitoring and Incident Analysis
+
+## 💻 Featured Projects
+
+| Project                        | Description                                                          | Link                                                                  |
+| ------------------------------ | -------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Bricks Heist                   | Exploitation and investigation of CVE-2024-25600 in Bricks Builder   | [Repository](https://github.com/Sombrawow/tryhackme-bricks-heist)     |
+| Volt Typhoon APT Investigation | Investigation of a simulated APT campaign attributed to Volt Typhoon | [Repository](https://github.com/Sombrawow/volt-typhoon-investigation) |
+| Investigating windows writeup  | Forensic investigation writeup for TryHackMe room - Windows Server 2016 | [Repository](https://github.com/Sombrawow/investigating-windows-writeup) |
+| Nmap cheat sheet               | Complete guide to Nmap commands for cybersecurity | [Repository](https://github.com/Sombrawow/nmap-cheat-sheet) |
+
+## 🎯 Career Objective
+
+Seeking an entry-level SOC Analyst, Cybersecurity Analyst, or Blue Team position where I can apply my networking, Linux, and cybersecurity skills while continuing to grow in threat detection, incident response, and security operations.
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/jvrgs)
+
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-black?logo=tryhackme)](https://tryhackme.com/p/coursera.pelican)
-[![jvrgs98@protonmail.com](https://img.shields.io/badge/-jvrgs98%40protonmail.com-6D4AFF?logo=protonmail)](mailto:jvrgs98@protonmail.com)
 
-> "El precio de la libertad es la eterna vigilancia." — Thomas Jefferson
+[![Proton Mail](https://img.shields.io/badge/Email-ProtonMail-6D4AFF?logo=protonmail)](mailto:jvrgs98@protonmail.com)
+
+> "The price of freedom is eternal vigilance."
