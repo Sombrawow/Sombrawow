@@ -24,7 +24,7 @@
 
 ### Cybersecurity
 
-* CCST Cybersecurity (Cisco)
+* Cisco Junior Cybersecurity Analyst Career Path
 * Security Monitoring
 * Log Analysis
 * Threat Detection Fundamentals
@@ -49,6 +49,7 @@
 
 | Project                        | Description                                                          | Link                                                                  |
 | ------------------------------ | -------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Server — Security Audit        | Self-conducted security audit of a 24/7 automated trading server running MetaTrader 5 on Ubuntu 24.04 LTS | [Repository](https://github.com/Sombrawow/Server-Security-Audit) |
 | Bricks Heist                   | Exploitation and investigation of CVE-2024-25600 in Bricks Builder   | [Repository](https://github.com/Sombrawow/tryhackme-bricks-heist)     |
 | Volt Typhoon APT Investigation | Investigation of a simulated APT campaign attributed to Volt Typhoon | [Repository](https://github.com/Sombrawow/volt-typhoon-investigation) |
 | Investigating windows writeup  | Forensic investigation writeup for TryHackMe room - Windows Server 2016 | [Repository](https://github.com/Sombrawow/investigating-windows-writeup) |
