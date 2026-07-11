@@ -1,70 +1,42 @@
 # 👋 Hi, I'm Javier
 
-**Telecommunications & IT Technician transitioning into Cybersecurity**
-**Aspiring SOC Analyst | Cisco Junior Cybersecurity Analyst Career Path ✅ | CompTIA Security+ (In Progress)**
+**Telecom & IT technician moving into cybersecurity, aiming for SOC Analyst L1 roles.**
 
-## 🛠️ Skills & Knowledge
+I spent years monitoring technical systems in real time under pressure — live events where an
+unnoticed anomaly becomes a visible failure in seconds. I'm now applying that operational instinct
+to security monitoring, log analysis and incident response. This repo is where I document that work.
 
-### Networking
+📜 Junior Cybersecurity Analyst Career Path — Certificate of Completion, Cisco Networking Academy
+📖 Studying for CompTIA Security+ (SY0-701)
+📍 Málaga, Spain · available for rotating 24x7 shifts
+🔗 [LinkedIn](https://www.linkedin.com/in/jvrgs)
 
-* Wireshark
-* Nmap
-* OSI Model
-* TCP/IP
-* Subnetting
-* Network Troubleshooting
+---
 
-### Linux
+## 🔍 Featured Project — Volt Typhoon APT Investigation
 
-* Bash
-* User & Group Management
-* File Permissions (chmod/chown)
-* Systemd
-* Basic System Administration
+Investigation of a simulated APT campaign in **Splunk**. Threat hunting written in **SPL**,
+**18+ techniques mapped to MITRE ATT&CK**, IOC documentation and an incident-response writeup.
 
-### Cybersecurity
+➡️ **[Read the full investigation](https://github.com/Sombrawow/volt-typhoon-investigation)**
 
-* Cisco Junior Cybersecurity Analyst Career Path
-* Security Monitoring
-* Log Analysis
-* Threat Detection Fundamentals
-* Incident Response Fundamentals
-* Network Security Fundamentals
+---
 
-### Currently Developing
+## 💻 Other Projects
 
-* SIEM (Splunk)
-* Vulnerability Assessment
-* Python for Security Automation
-* Threat Hunting
-* SOC Operations
+| Project | Description | Link |
+| --- | --- | --- |
+| Server Security Audit | Host-level security audit of a 24/7 Ubuntu 24.04 server (network exposure, UFW firewall, SSH/VPN config, SUID binaries) — 17 findings documented | [Repo](https://github.com/Sombrawow/Server-Security-Audit) |
+| Bricks Heist — CVE-2024-25600 | RCE exploitation and investigation in WordPress Bricks Builder, cryptomining malware analysis | [Repo](https://github.com/Sombrawow/tryhackme-bricks-heist) |
+| Investigating Windows | Forensic investigation writeup — Windows Server 2016 (TryHackMe) | [Repo](https://github.com/Sombrawow/investigating-windows-writeup) |
 
-## 📚 Current Focus
+---
 
-* CompTIA Security+ (SY0-701)
-* Blue Team Labs & SOC Investigations
-* Security Monitoring and Incident Analysis
+## 🛠️ Skills
 
-## 💻 Featured Projects
+**Networking:** Wireshark, Nmap, TCP/IP, OSI model, subnetting, network troubleshooting
+**Linux:** Bash, permissions (chmod/chown), systemd, user/group management, basic sysadmin
+**Security fundamentals:** log analysis, security monitoring, threat detection, incident response, network security *(Cisco NetAcad coursework)*
 
-| Project                        | Description                                                          | Link                                                                  |
-| ------------------------------ | -------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Server — Security Audit        | Self-conducted security audit of a 24/7 automated trading server running MetaTrader 5 on Ubuntu 24.04 LTS | [Repository](https://github.com/Sombrawow/Server-Security-Audit) |
-| Bricks Heist                   | Exploitation and investigation of CVE-2024-25600 in Bricks Builder   | [Repository](https://github.com/Sombrawow/tryhackme-bricks-heist)     |
-| Volt Typhoon APT Investigation | Investigation of a simulated APT campaign attributed to Volt Typhoon | [Repository](https://github.com/Sombrawow/volt-typhoon-investigation) |
-| Investigating windows writeup  | Forensic investigation writeup for TryHackMe room - Windows Server 2016 | [Repository](https://github.com/Sombrawow/investigating-windows-writeup) |
-| Nmap cheat sheet               | Complete guide to Nmap commands for cybersecurity | [Repository](https://github.com/Sombrawow/nmap-cheat-sheet) |
-
-## 🎯 Career Objective
-
-Seeking an entry-level SOC Analyst, Cybersecurity Analyst, or Blue Team position where I can apply my networking, Linux, and cybersecurity skills while continuing to grow in threat detection, incident response, and security operations.
-
-## 📬 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/jvrgs)
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-black?logo=tryhackme)](https://tryhackme.com/p/coursera.pelican)
-
-[![Proton Mail](https://img.shields.io/badge/Email-ProtonMail-6D4AFF?logo=protonmail)](mailto:jvrgs98@protonmail.com)
-
-> "The price of freedom is eternal vigilance."
+## 📚 Currently learning
+SIEM with Splunk · threat hunting · Python for security automation · vulnerability assessment · SOC operations
