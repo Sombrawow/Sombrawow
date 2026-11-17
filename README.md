@@ -47,12 +47,3 @@ End-to-end investigation of a simulated APT campaign in **Splunk** (TryHackMe sc
 ## 📚 Currently working on
 
 Security+ (SY0-701) · deeper Splunk detections · Python for security automation · SOC operations
-
-## 🛠️ Skills
-
-**Networking:** Wireshark, Nmap, TCP/IP, OSI model, subnetting, network troubleshooting
-**Linux:** Bash, permissions (chmod/chown), systemd, user/group management, basic sysadmin
-**Security fundamentals:** log analysis, security monitoring, threat detection, incident response, network security *(Cisco NetAcad coursework)*
-
-## 📚 Currently learning
-SIEM with Splunk · threat hunting · Python for security automation · vulnerability assessment · SOC operations
